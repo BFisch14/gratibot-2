@@ -4,6 +4,7 @@ metadata:
   name: gratibot-2
   annotations:
     github.com/project-slug: BFisch14/gratibot-2
+    backstage.io/techdocs-ref: github:https://github.com/BFisch14/gratibot-2
 spec:
   type: other
   lifecycle: production

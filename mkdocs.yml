@@ -1,8 +1,8 @@
 site_name: 'example-docs'
 
 nav:
-  - Home: 'index.md'
-  - Local: 'localdev.md'
+  - Home: index.md
+  - Local: localdev.md
 
 plugins:
   - techdocs-core
